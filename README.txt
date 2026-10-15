@@ -6,4 +6,4 @@ Repositorio remoto: GitHub
 
 Este cambio se ha realizado desde una copia clonada. 
 
-Estado del proyecto: versión principal
+Estado del proyecto: versión experimental
